@@ -1,4 +1,4 @@
-# chrome extenstion
+# chrome-basic-extension
 
 크롬 확장 프로그램 기본 앱 만들기 예제입니다.
 
